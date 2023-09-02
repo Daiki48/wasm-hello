@@ -7,7 +7,7 @@ ref - https://rustwasm.github.io/wasm-bindgen/examples/hello-world.html
 # Setup
 
 ```shell
-$ git clone
+$ git clone https://github.com/Daiki48/wasm-hello.git
 $ pnpm install
 $ pnpm install -D wasm-pack
 ```
